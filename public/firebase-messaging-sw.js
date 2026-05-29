@@ -2,7 +2,7 @@ importScripts('https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js
 importScripts('https://www.gstatic.com/firebasejs/10.12.0/firebase-messaging-compat.js');
 
 firebase.initializeApp({  
-  apiKey:            "AIzaSyCdJ9ceo7p12gsjKHnHVWYKc8POQJsgAI4",
+  apiKey:            "AIzaSyDK5sl-jjjc93v4R9Mf6YDHeRty5zrBn8c",
   authDomain:        "cloud-chat-app-e11bb.firebaseapp.com",
   projectId:         "cloud-chat-app-e11bb",
   storageBucket:     "cloud-chat-app-e11bb.firebasestorage.app",
